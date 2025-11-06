@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Sagra del Fungo Porcino",
+    "date": "2025-11-18",
+    "location": "Piazza Centrale, Bannio Anzino",
+    "description": "Una giornata dedicata ai sapori del bosco, con degustazioni, mercatini di prodotti tipici e musica dal vivo.",
+    "tag": "Gastronomia"
+  },
+  {
+    "title": "Escursione al Lago delle Fate",
+    "date": "2025-11-22",
+    "location": "Partenza da Macugnaga",
+    "description": "Passeggiata guidata di media difficoltà verso uno dei laghi più suggestivi del Monte Rosa. Adatta a tutta la famiglia.",
+    "tag": "Natura"
+  },
+  {
+    "title": "Concerto Corale Walser",
+    "date": "2025-11-29",
+    "location": "Chiesa Vecchia, Macugnaga",
+    "description": "Serata di canti tradizionali della cultura Walser, per riscoprire le radici storiche della valle.",
+    "tag": "Cultura"
+  },
+  {
+    "title": "Mercatini di Natale in Miniera",
+    "date": "2025-12-05",
+    "location": "Miniera d'oro della Guia, Macugnaga",
+    "description": "Un'esperienza unica con mercatini di artigianato locale allestiti all'interno della storica miniera d'oro.",
+    "tag": "Mercatini"
+  },
+  {
+    "title": "Fiaccolata di Fine Anno",
+    "date": "2025-12-31",
+    "location": "Piste da sci, Pecetto",
+    "description": "La tradizionale fiaccolata dei maestri di sci per salutare l'anno vecchio e dare il benvenuto a quello nuovo, con vin brulé per tutti.",
+    "tag": "Tradizione"
+  }
+]
