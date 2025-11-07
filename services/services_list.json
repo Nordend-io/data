@@ -12,7 +12,7 @@
   },
   {
     "name": "Banca Sella",
-    "category": "Servizi Finanziari",
+    "category": "Finanza",
     "location": "Via Monte Rosa, Staffa, Macugnaga (VB)",
     "coordinates": { "lat": 45.9701, "lon": 7.9678 },
     "phone": "+39 0324 65001",
@@ -23,7 +23,7 @@
   },
   {
     "name": "Ufficio Postale di Staffa",
-    "category": "Servizi Pubblici",
+    "category": "Pubblici",
     "location": "Piazza Municipio, Staffa, Macugnaga (VB)",
     "coordinates": { "lat": 45.9699, "lon": 7.9676 },
     "phone": "+39 0324 65120",
@@ -67,7 +67,7 @@
   },
   {
     "name": "Chiesa Vecchia e Cimitero Walser",
-    "category": "Cultura e Fede",
+    "category": "Cultura",
     "location": "Dorf, Macugnaga (VB)",
     "coordinates": { "lat": 45.9725, "lon": 7.9650 },
     "phone": null,
