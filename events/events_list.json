@@ -1,37 +1,79 @@
 [
   {
-    "title": "Sagra del Fungo Porcino",
-    "date": "2025-11-18",
-    "location": "Piazza Centrale, Bannio Anzino",
-    "description": "Una giornata dedicata ai sapori del bosco, con degustazioni, mercatini di prodotti tipici e musica dal vivo!",
-    "tag": "Gastronomia"
+    "title": "MacugnYOGA con Rachel",
+    "date": "2025-11-01",
+    "location": "Macugnaga",
+    "description": "Sessioni di yoga e benessere in ambiente alpino durante il mese di novembre.",
+    "tag": "Benessere"
   },
   {
-    "title": "Escursione al Lago delle Fate",
-    "date": "2025-11-22",
-    "location": "Partenza da Macugnaga",
-    "description": "Passeggiata guidata di media difficoltà verso uno dei laghi più suggestivi del Monte Rosa. Adatta a tutta la famiglia.",
-    "tag": "Natura"
-  },
-  {
-    "title": "Concerto Corale Walser",
-    "date": "2025-11-29",
-    "location": "Chiesa Vecchia, Macugnaga",
-    "description": "Serata di canti tradizionali della cultura Walser, per riscoprire le radici storiche della valle.",
+    "title": "Io Leggo Perché – Attività in Libreria",
+    "date": "2025-11-07",
+    "location": "Libreria Il Parnaso del Rosa, Macugnaga",
+    "description": "Iniziativa di promozione della lettura con eventi e attività dedicate.",
     "tag": "Cultura"
   },
   {
-    "title": "Mercatini di Natale in Miniera",
-    "date": "2025-12-05",
-    "location": "Miniera d'oro della Guia, Macugnaga",
-    "description": "Un'esperienza unica con mercatini di artigianato locale allestiti all'interno della storica miniera d'oro.",
+    "title": "Novembre a Macugnaga",
+    "date": "2025-11-08",
+    "location": "Macugnaga",
+    "description": "Programma di attività stagionali per famiglie, laboratori e incontri.",
+    "tag": "Famiglia"
+  },
+  {
+    "title": "Festa del Gruppo Escursionisti Val Baranca 1985",
+    "date": "2025-11-15",
+    "location": "Macugnaga",
+    "description": "Celebrazione per i 40 anni del gruppo escursionistico con incontri e festa serale.",
+    "tag": "Tradizione"
+  },
+  {
+    "title": "Mercatini di Natale ai piedi del Monte Rosa",
+    "date": "2025-11-29",
+    "location": "Centro Storico, Macugnaga",
+    "description": "Mercatini natalizi con artigianato locale, prodotti tipici e atmosfera alpina.",
     "tag": "Mercatini"
   },
   {
-    "title": "Fiaccolata di Fine Anno",
-    "date": "2025-12-31",
-    "location": "Piste da sci, Pecetto",
-    "description": "La tradizionale fiaccolata dei maestri di sci per salutare l'anno vecchio e dare il benvenuto a quello nuovo, con vin brulé per tutti.",
+    "title": "Inverno a Macugnaga – Attività della Scuola Sci",
+    "date": "2025-12-06",
+    "location": "Macugnaga",
+    "description": "Inaugurazione della stagione invernale con corsi, dimostrazioni e attività sulla neve.",
+    "tag": "Sport"
+  },
+  {
+    "title": "Magico Natale a Vanzone",
+    "date": "2025-12-07",
+    "location": "Vanzone con San Carlo",
+    "description": "Mercatini, animazioni e iniziative natalizie a cura della Pro Loco.",
+    "tag": "Evento"
+  },
+  {
+    "title": "Fiera di San Bernardo",
+    "date": "2025-07-04",
+    "location": "Macugnaga",
+    "description": "Storica fiera dedicata all’artigianato alpino, cultura walser e prodotti locali.",
+    "tag": "Tradizione"
+  },
+  {
+    "title": "Monterosa Est Himalayan Trail (MEHT)",
+    "date": "2025-08-02",
+    "location": "Macugnaga / Ceppo Morelli / Vanzone",
+    "description": "Gara internazionale di trail running attorno alla parete est del Monte Rosa.",
+    "tag": "Sport"
+  },
+  {
+    "title": "Sagra della Ciliegia",
+    "date": "2025-06-13",
+    "location": "Anzola d'Ossola",
+    "description": "Sagra estiva con gastronomia, spettacoli e prodotti tipici.",
+    "tag": "Gastronomia"
+  },
+  {
+    "title": "Festa della Madonna della Gurva",
+    "date": "2025-08-15",
+    "location": "Santuario della Gurva, Calasca-Castiglione",
+    "description": "Storica celebrazione con processione e partecipazione della Milizia Tradizionale.",
     "tag": "Tradizione"
   }
 ]
