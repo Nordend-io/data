@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Farmacia di Macugnaga",
+    "category": "Sanità",
+    "location": "Piazza Municipio, Staffa, Macugnaga (VB)",
+    "coordinates": { "lat": 45.9698, "lon": 7.9675 },
+    "phone": "+39 0324 65123",
+    "website": null,
+    "hours": "Lun-Sab: 8:30-12:30, 15:30-19:00",
+    "notes": "Turni di guardia esposti in bacheca.",
+    "tags": ["farmacia", "medicinali"]
+  },
+  {
+    "name": "Banca Sella",
+    "category": "Servizi Finanziari",
+    "location": "Via Monte Rosa, Staffa, Macugnaga (VB)",
+    "coordinates": { "lat": 45.9701, "lon": 7.9678 },
+    "phone": "+39 0324 65001",
+    "website": "https://www.sella.it",
+    "hours": "Lun-Ven: 8:25-13:20",
+    "notes": "Sportello Bancomat (ATM) disponibile 24/7.",
+    "tags": ["banca", "bancomat", "atm"]
+  },
+  {
+    "name": "Ufficio Postale di Staffa",
+    "category": "Servizi Pubblici",
+    "location": "Piazza Municipio, Staffa, Macugnaga (VB)",
+    "coordinates": { "lat": 45.9699, "lon": 7.9676 },
+    "phone": "+39 0324 65120",
+    "website": "https://www.poste.it",
+    "hours": "Lun-Ven: 8:20-13:45; Sab: 8:20-12:45",
+    "notes": "Servizi di spedizione e Postamat.",
+    "tags": ["poste", "spedizioni"]
+  },
+  {
+    "name": "Ristorante Pizzeria Alpino",
+    "category": "Ristorazione",
+    "location": "Via Pecetto 12, Pecetto, Macugnaga (VB)",
+    "coordinates": { "lat": 45.9595, "lon": 7.9545 },
+    "phone": "+39 0324 65012",
+    "website": null,
+    "hours": "12:00-14:30, 19:00-22:00",
+    "notes": "Chiuso il martedì. Prenotazione consigliata nel weekend.",
+    "tags": ["cucina tipica", "pizzeria", "polenta", "terrazza"]
+  },
+  {
+    "name": "Hotel Monte Rosa",
+    "category": "Ospitalità",
+    "location": "Via dei Walser, Staffa, Macugnaga (VB)",
+    "coordinates": { "lat": 45.9688, "lon": 7.9670 },
+    "phone": "+39 0324 65005",
+    "website": "https://www.monterosahotel.it",
+    "hours": null,
+    "notes": "Dispone di centro benessere e ristorante interno.",
+    "tags": ["hotel", "spa", "ristorante", "pet friendly"]
+  },
+  {
+    "name": "Funivie Macugnaga (Monte Moro)",
+    "category": "Trasporti",
+    "location": "Partenza da Staffa, Macugnaga (VB)",
+    "coordinates": { "lat": 45.9675, "lon": 7.9655 },
+    "phone": "+39 0324 65050",
+    "website": "https://www.macugnaga-monterosa.it",
+    "hours": "Controllare il sito per orari stagionali.",
+    "notes": "Porta al Passo del Monte Moro, al confine con la Svizzera.",
+    "tags": ["funivia", "impianti di risalita", "escursioni", "sci"]
+  },
+  {
+    "name": "Chiesa Vecchia e Cimitero Walser",
+    "category": "Cultura e Fede",
+    "location": "Dorf, Macugnaga (VB)",
+    "coordinates": { "lat": 45.9725, "lon": 7.9650 },
+    "phone": null,
+    "website": null,
+    "hours": "Sempre visitabile dall'esterno.",
+    "notes": "Monumento nazionale del XIII secolo, con annesso tiglio secolare.",
+    "tags": ["chiesa", "storia", "walser", "cultura"]
+  }
+]
