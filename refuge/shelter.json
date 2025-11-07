@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Rifugio Zamboni-Zappa",
+    "location": "Alpe Pedriola, Macugnaga (VB)",
+    "description": "Situato in un'ampia conca glaciale ai piedi della parete est del Monte Rosa. È un punto di partenza ideale per escursioni e alpinismo.",
+    "altitude": 2070,
+    "contact": "+39 0324 65313",
+    "tag": "Rifugio"
+  },
+  {
+    "title": "Rifugio Damiano Marinelli",
+    "location": "Crestone Marinelli, Macugnaga (VB)",
+    "description": "Posto tappa fondamentale per la salita alla Punta Dufour dal versante est. Riservato ad alpinisti esperti e ben equipaggiati.",
+    "altitude": 3036,
+    "contact": "CAI Macugnaga",
+    "tag": "Rifugio"
+  },
+  {
+    "title": "Bivacco Emiliano Lanti al Pizzo Bianco",
+    "location": "Nei pressi del Pizzo Bianco, Macugnaga (VB)",
+    "description": "Bivacco non gestito situato in posizione strategica per le ascensioni al Pizzo Bianco. Offre un riparo essenziale in un ambiente severo.",
+    "altitude": 3200,
+    "contact": "Sempre aperto",
+    "tag": "Bivacco"
+  },
+  {
+    "title": "Bivacco Augusto Pala",
+    "location": "Isole d'Aurona (Pizzo Andolla), Antrona Schieranco (VB)",
+    "description": "Punto d'appoggio per le ascensioni al Pizzo Andolla. Ricostruito nel 2003, offre 9 posti letto in un ambiente selvaggio e isolato.",
+    "altitude": 3060,
+    "contact": "Sempre aperto",
+    "tag": "Bivacco"
+  },
+  {
+    "title": "Bivacco Hinderbalmo (Città di Varese)",
+    "location": "Alpe Hinderbalmo, Macugnaga (VB)",
+    "description": "Facilmente raggiungibile con un'escursione panoramica, offre una vista spettacolare sulla parete est del Monte Rosa. Ottima meta per famiglie.",
+    "altitude": 1910,
+    "contact": "Sempre aperto",
+    "tag": "Bivacco"
+  },
+  {
+    "title": "Bivacco Gaspare Oberto - Paolo Maroli",
+    "location": "Punta Gnifetti / Cresta Signal, Macugnaga (VB)",
+    "description": "Situato sulla cresta Signalkuppe, è un bivacco d'alta quota per alpinisti diretti alla Punta Gnifetti e alla Capanna Margherita.",
+    "altitude": 3960,
+    "contact": "Sempre aperto",
+    "tag": "Bivacco"
+  }
+]
